@@ -1,0 +1,11 @@
+JavaFX Application Thread INFO  dao.Database - Successfully started SQLite Drivers.
+JavaFX Application Thread INFO  dao.Database - Successfully connected to SQLite DB at file:/Users/juliusbeutel/GitHub/habit-tracker/target/classes/database/database.db.
+JavaFX Application Thread INFO  dao.Database - Successfully connected to database.
+JavaFX Application Thread INFO  dao.Database - Successfully connected to SQLite DB at file:/Users/juliusbeutel/GitHub/habit-tracker/target/classes/database/database.db.
+JavaFX Application Thread INFO  dao.Database - Successfully connected to SQLite DB at file:/Users/juliusbeutel/GitHub/habit-tracker/target/classes/database/database.db.
+JavaFX Application Thread INFO  dao.JournalDAO - Successfully load journal entries from database.
+JavaFX Application Thread INFO  dao.Database - Successfully connected to SQLite DB at file:/Users/juliusbeutel/GitHub/habit-tracker/target/classes/database/database.db.
+JavaFX Application Thread INFO  dao.HabitDAO - Habits were loaded successfully.
+JavaFX Application Thread INFO  dao.Database - Successfully connected to SQLite DB at file:/Users/juliusbeutel/GitHub/habit-tracker/target/classes/database/database.db.
+JavaFX Application Thread INFO  teampingui.Main - 2023-03-04T12:05:47.138320: Replaced current scene content with Main.fxml
+JavaFX Application Thread INFO  teampingui.Main - 2023-03-04T12:05:47.663238: Application started

@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.teampingui.dao.HabitTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.002 s <<< FAILURE! - in com.teampingui.dao.HabitTest
+com.teampingui.dao.HabitTest.testRemoveHabitEntry  Time elapsed: 0 s  <<< ERROR!
+java.lang.reflect.InaccessibleObjectException: Unable to make com.teampingui.dao.HabitTest() accessible: module com.TeamPingui does not "opens com.teampingui.dao" to unnamed module @28eaa59a
+
+com.teampingui.dao.HabitTest.testInsertHabitEntry  Time elapsed: 0 s  <<< ERROR!
+java.lang.reflect.InaccessibleObjectException: Unable to make com.teampingui.dao.HabitTest() accessible: module com.TeamPingui does not "opens com.teampingui.dao" to unnamed module @28eaa59a
+

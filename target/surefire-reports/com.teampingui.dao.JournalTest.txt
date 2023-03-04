@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.teampingui.dao.JournalTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.01 s <<< FAILURE! - in com.teampingui.dao.JournalTest
+com.teampingui.dao.JournalTest.testInsertJournalEntry  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.reflect.InaccessibleObjectException: Unable to make com.teampingui.dao.JournalTest() accessible: module com.TeamPingui does not "opens com.teampingui.dao" to unnamed module @28eaa59a
+
